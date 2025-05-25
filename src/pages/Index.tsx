@@ -1,8 +1,7 @@
 
 import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
-import ContentInput from "@/components/ContentInput";
-import SampleQuiz from "@/components/SampleQuiz";
+import QuizGenerator from "@/components/QuizGenerator";
 import Features from "@/components/Features";
 
 const Index = () => {
@@ -10,8 +9,7 @@ const Index = () => {
     <div className="min-h-screen bg-white">
       <Header />
       <HeroSection />
-      <ContentInput />
-      <SampleQuiz />
+      <QuizGenerator />
       <Features />
       
       {/* Footer */}
