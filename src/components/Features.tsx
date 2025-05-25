@@ -12,24 +12,24 @@ const Features = () => {
       description: "Generate complete quizzes in seconds from any URL or PDF document. No manual question writing required."
     },
     {
-      icon: "🎨",
-      title: "Personalized Quizzes",
-      description: "Customize difficulty levels, question count, and quiz titles to match your students' needs and learning objectives."
-    },
-    {
-      icon: "📤",
-      title: "Easy Sharing",
-      description: "Share quizzes instantly with students through shareable links. No accounts required for students to take quizzes."
-    },
-    {
       icon: "📊",
       title: "Progress Tracking",
       description: "Monitor student performance with detailed analytics and identify areas that need more attention."
     },
     {
+      icon: "🎨",
+      title: "Customizable Format",
+      description: "Choose from multiple choice, true/false, or open-ended questions. Adjust difficulty levels as needed."
+    },
+    {
       icon: "📱",
       title: "Mobile Friendly",
       description: "Students can take quizzes on any device. Perfect for homework, classroom activities, or self-study."
+    },
+    {
+      icon: "🔒",
+      title: "Safe & Secure",
+      description: "Your content and student data are protected with enterprise-grade security and privacy measures."
     }
   ];
 
